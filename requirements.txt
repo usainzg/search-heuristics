@@ -3,3 +3,4 @@ more_itertools
 matplotlib
 pandas
 seaborn
+SciencePlots
